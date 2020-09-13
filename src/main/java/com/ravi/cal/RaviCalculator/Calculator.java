@@ -37,7 +37,7 @@ public class Calculator  {
 		
 		return first*second;
 	}
-}
+
 
 public static void main(String[] args) {
 
