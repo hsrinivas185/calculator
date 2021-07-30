@@ -24,7 +24,7 @@
   </dependencies>
 
 
-<build>
+  <build>
       <plugins>
          <plugin>
             <!-- Building an executable jar -->
